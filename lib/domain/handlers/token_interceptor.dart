@@ -1,5 +1,4 @@
 import 'package:book_shop/infrastructure/local_storage/g_grocery_storage.dart';
-import 'package:book_shop/infrastructure/service/app_constants.dart';
 import 'package:dio/dio.dart';
 
 class TokenInterceptor extends Interceptor {

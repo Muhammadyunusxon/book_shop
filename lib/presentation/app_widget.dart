@@ -2,7 +2,6 @@ import 'package:book_shop/presentation/pages/initial/splash_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'pages/main/main_page.dart';
 import 'styles/theme/light_theme.dart';
 
 class AppWidget extends ConsumerWidget {
