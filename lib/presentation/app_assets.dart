@@ -9,11 +9,7 @@ class Assets {
   static const String lottieNoItem = 'assets/lottie/noItem.json';
   static const String lottieNoItems = 'assets/lottie/no_items.json';
   static const String lottieNotFound = 'assets/lottie/not-found.json';
-  static const String lottiePinBlue = 'assets/lottie/pin_blue.json';
-  static const String lottiePinDarkBlue = 'assets/lottie/pin_dark_blue.json';
   static const String lottiePinGreen = 'assets/lottie/pin_green.json';
-  static const String lottiePinOrange = 'assets/lottie/pin_orange.json';
-  static const String lottiePinPurple = 'assets/lottie/pin_purple.json';
   static const String lottieRefresh = 'assets/lottie/refresh.json';
   static const String lottieRestart = 'assets/lottie/restart.json';
   static const String pngApple = 'assets/png/apple.png';
